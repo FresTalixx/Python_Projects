@@ -1,3 +1,8 @@
 print("Hello world")
+
+
 class Cat:
-    pass
+    def __init__(self, name, hunger):
+        self.name = name
+        self.hunger = hunger
+

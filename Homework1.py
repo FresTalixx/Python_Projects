@@ -11,3 +11,9 @@ class Cat:
     def grow(self):
         self.size += 1
 
+    def hunger(self):
+        self.hunger += 1
+
+     def satiety(self):
+        self.hunger -= 1
+

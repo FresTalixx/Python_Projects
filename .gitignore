@@ -1,2 +1,2 @@
-# ignore all .txt files
-*.txt
+# ignore all .bat files
+*.bat

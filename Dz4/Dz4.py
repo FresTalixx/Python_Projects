@@ -25,10 +25,10 @@ class Human:
         self.age = age
 
 
-name = input("Введіть ім'я: ")
-age = int(input("Введіть вік: "))
+name1 = input("Введіть ім'я: ")
+age1 = int(input("Введіть вік: "))
 
-person1 = Human(name, age)
+person1 = Human(name1, age1)
 car1 = Car()
 
 car1.drive(person1)

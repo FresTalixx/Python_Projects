@@ -35,11 +35,13 @@ print(breed_dog.speak())
 
 
 class MyClass:
-    def __init__(self, value):
+    def __init__(self, value, name):
+        self.name = name
         self.__my_private_def(value)
 
     def __my_private_def(self, value):
         print(f"Private method called with value: {value}")
+        print(self.name)
 
 
-obj = MyClass(54)
+obj = MyClass(54,"You")

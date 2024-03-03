@@ -44,4 +44,4 @@ class MyClass:
         print(self.name)
 
 
-obj = MyClass(54,"You")
+obj = MyClass(54, "You")

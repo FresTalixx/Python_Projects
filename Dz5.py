@@ -5,7 +5,7 @@ colorama.init(autoreset=True)  # коректно ініціалізую мод�
 print(Fore.RED + Back.BLUE + Style.BRIGHT + 'Hello, World!', 'green', 'on_red')  # Fore(foreground) - текст
 # Fore.Reset - онуляє колір (у на є авторесет)
 # Back.BLUE - задній план
-# Style.BRIGHT - яскравістьі
+# Style.BRIGHT - яскравість
 
 
 

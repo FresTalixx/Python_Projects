@@ -1,0 +1,38 @@
+NFO:root:Logging has started
+INFO:mylib:12 пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ
+INFO:root:Logging has finished
+INFO:mylib:12 пїЅпїЅпїЅ
+INFO:mylib:12 пїЅпїЅпїЅ
+INFO:mylib:12 пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ
+INFO:root:Logging has finished
+INFO:mylib:12 пїЅпїЅпїЅпїЅпїЅпїЅ
+INFO:mylib:12 пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ
+INFO:root:Logging has finished
+INFO:root:Logging has started
+INFO:mylib:1 пїЅпїЅпїЅ
+INFO:__main__:This is a test info message
+INFO:mylib:1 пїЅпїЅпїЅ
+INFO:mylib:1 пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ
+INFO:root:Logging has finished
+INFO:root:Logging has started
+INFO:mylib:р Поїв
+INFO:__main__:This is a test info message
+INFO:mylib:р Поїв
+INFO:mylib:р подивився свій статус
+INFO:root:Logging has finished
+INFO:root:Logging has started
+INFO:mylib:1 Поїв
+INFO:__main__:This is a test info message
+INFO:mylib:1 Поїв
+INFO:root:Logging has started
+INFO:mylib:2 Поїв
+INFO:__main__:This is a test info message
+INFO:mylib:2 Поїв
+INFO:mylib:2 подивився свій статус
+INFO:root:Logging has finished
+INFO:root:Logging has started
+INFO:mylib:а Поїв
+INFO:__main__:This is a test info message
+INFO:mylib:а Поїв
+INFO:mylib:а подивився свій статус
+INFO:root:Logging has finished

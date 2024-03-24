@@ -11,8 +11,8 @@ def currency_converter(amount, from_currency, to_currency):
 
         if response.status_code == 200:
             exchange_rate = data['rates'][to_currency]
-            converted_amount = amount * exchange_rate
-            return converted_amount
+            converted_amount1 = amount * exchange_rate
+            return converted_amount1
         else:
             print("Failed to fetch exchange rates. Please try again later.")
             return None
